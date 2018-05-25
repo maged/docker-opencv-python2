@@ -2,10 +2,9 @@
 
 To use:
 
-'''
-$ docker build -t cvpy ./docker/ && ./start.sh
-$ python
-$ import cv2
-'''
+    $ docker build -t cvpy ./docker/ && ./start.sh
+    $ python
+    $ import cv2
+
 
 
