@@ -3,6 +3,7 @@
 To use:
 
     $ docker build -t cvpy ./docker/ && ./start.sh
+    (in container)
     $ python
     $ import cv2
 
